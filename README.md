@@ -1,4 +1,4 @@
-[![MasterHead]([[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCsBL7OOuE1Zx5vT_xL3ZwMHO9h44kpSeSg&s](https://cdn.stackoverflow.co/images/jo7n4k8s/production/7726915d939ae1d14d7ef7d941641fe468de29e2-12000x6300.jpg?w=1200&h=630&auto=format&dpr=2](https://wallpaperaccess.com/full/3520511.png)))
+ [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://wallpapercave.com/wp/wp13133483.jpg))
 
 
 
