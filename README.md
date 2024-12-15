@@ -1,6 +1,6 @@
- [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://wallpapercave.com/wp/wp13133483.jpg))
 
 
+ [![MasterHead](https://wallpapercave.com/wp/wp13133483.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammed Can Özyaşar</h1>
 <h3 align="center">A passionate computer engineering student from türkiye</h3>
