@@ -1,7 +1,4 @@
 
-
- [![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20230617/pngtree-lakescape-landscape-nature-scenery-hd-image_2950137.jpg)
-
 <h1 align="center">Hi 👋, I'm Muhammed Can Özyaşar</h1>
 <h3 align="center">A passionate computer engineering student from türkiye</h3>
 
