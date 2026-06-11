@@ -1,99 +1,72 @@
-<div align="center">
+# Muhammed Can Özyaşar
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:0ea5e9,100:22c55e&text=Muhammed%20Can%20%C3%96zya%C5%9Far&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20%26%20Backend%20Developer%20%7C%20YZ%2FML%20Researcher&descAlignY=58&animation=fadeIn)
+**AI/ML odaklı Bilgisayar Mühendisliği öğrencisi**  
+LLM sistemleri, makine öğrenmesi, federe öğrenme ve yapay zeka destekli ürün geliştirme üzerine çalışıyorum.
 
-<a href="https://www.canozyasar.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-canozyasar.dev-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/muhammed-can-ozyasar">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Can%20%C3%96zya%C5%9Far-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:can.ozyasarr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-can.ozyasarr%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[Portfolio](https://www.canozyasar.dev/) · [LinkedIn](https://www.linkedin.com/in/muhammed-can-ozyasar) · [Email](mailto:can.ozyasarr@gmail.com)
 
-</div>
+---
 
-```txt
-SYSTEM_BOOT_V2.0
-> Loading AI/ML research profile...
-> Connecting backend services...
-> Optimizing LLM context...
-> Access granted: building useful, explainable and scalable AI systems.
-```
+## Hakkımda
 
-## Merhaba, ben Can
+Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Ana odağım yapay zeka alanı: makine öğrenmesi modelleri, LLM entegrasyonları, RAG mimarileri, federe öğrenme ve AI destekli yazılım ürünleri geliştiriyorum.
 
-Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Backend geliştirme, yapay zeka, makine öğrenmesi ve LLM tabanlı sistemler üzerine çalışıyorum. GitHub'ı yalnızca kod saklamak için değil; öğrendiğim konuları, araştırma denemelerini, hackathon prototiplerini ve ürünleşebilir fikirleri düzenli bir mühendislik günlüğü gibi kullanıyorum.
+Backend, veri tabanı, web servisleri ve frontend tarafındaki çalışmalarımı ise yapay zeka projelerini gerçek kullanıcıların kullanabileceği ürünlere dönüştürmek için destekleyici mühendislik alanları olarak görüyorum. Yani merkezde AI var; diğer teknolojiler bu sistemleri daha kullanılabilir, ölçeklenebilir ve sürdürülebilir hale getirmek için araç.
 
-Şu anda odağım; **RAG mimarileri**, **federe öğrenme**, **LLM entegrasyonları**, **ML servisleri**, **Java Spring Boot**, **ASP.NET Core** ve **ölçeklenebilir backend sistemleri**.
+## Şu An Odaklandığım Alanlar
 
-## Ne Üzerinde Çalışıyorum?
+- LLM tabanlı uygulamalar ve RAG mimarileri
+- Makine öğrenmesi modelleme, veri ön işleme ve deney takibi
+- Federe öğrenme ve gizlilik koruyan yapay zeka sistemleri
+- AI agent, prompt engineering ve context optimizasyonu
+- ML modellerini API ve web ürünlerine entegre etme
+- Araştırma projelerini okunabilir, tekrar edilebilir GitHub repolarına dönüştürme
 
-- TÜBİTAK 2247-C STAR kapsamında lityum-iyon bataryalarda **SoH/SoC tahmini** için ML modelleri ve zaman serisi analizleri.
-- TÜBİTAK 2209-A kapsamında **federe öğrenme tabanlı cilt lezyonu sınıflandırma** projesi.
-- TÜBİTAK 1812 sürecinde KOBİ teklif yönetimi için **OCR + LLM destekli TeklifAkış** ürünü.
-- Kişisel portfolyomda CV verilerimle yanıt üreten **RAG tabanlı AI asistan**.
-- AI agent sistemleri, prompt mühendisliği, bağlam optimizasyonu ve açık kaynak geliştirici araçları.
+## Teknik Yetkinlikler
 
-## Teknik Persona
-
-| Alan | Odak |
+| Alan | Teknolojiler |
 | --- | --- |
-| AI / ML | PyTorch, scikit-learn, TensorFlow, Hugging Face, CNN/ResNet-18, LSTM, Random Forest |
-| LLM / GenAI | RAG, prompt engineering, embedding search, Gemini API, OpenAI API, multi-agent systems |
-| Backend | ASP.NET Core, Spring Boot, REST API, Node.js, Entity Framework Core |
-| Data | NumPy, Pandas, Matplotlib, preprocessing pipelines, time-series feature extraction |
-| Dev Tools | Git, GitHub, Docker, Jupyter Notebook, Postman, Obsidian |
-| Languages | Python, C#, Java, TypeScript, SQL, C++ |
+| AI / ML | PyTorch, scikit-learn, TensorFlow, Hugging Face, CNN, LSTM, Random Forest |
+| LLM / GenAI | RAG, Prompt Engineering, Embedding Search, Gemini API, OpenAI API, Multi-Agent Systems |
+| Data | NumPy, Pandas, Matplotlib, Jupyter Notebook, veri ön işleme pipeline'ları |
+| Backend | ASP.NET Core, Spring Boot, REST API, Entity Framework Core, Node.js |
+| Araçlar | Git, GitHub, Docker, Postman, Obsidian, Qdrant |
+| Diller | Python, C#, Java, TypeScript, SQL, C++ |
+
+## Araştırma ve Deneyim
+
+- **TÜBİTAK 2247-C STAR Öğrenci Araştırmacı**  
+  Lityum-iyon bataryalarda sağlık durumu ve şarj durumu tahmini için makine öğrenmesi modelleri, zaman serisi özellik çıkarımı ve model optimizasyonu üzerine çalışıyorum.
+
+- **TÜBİTAK 2209-A Proje Yürütücüsü**  
+  Cilt lezyonu sınıflandırması için federe öğrenme tabanlı bir mimari geliştiriyorum. Amaç, hasta verisini merkezi sunucuya taşımadan model eğitimi yapabilmek.
+
+- **TÜBİTAK 1812 Girişimcilik Süreci**  
+  KOBİ teklif yönetimi için OCR ve LLM destekli belge anlama sistemi üzerinde çalışıyorum.
+
+- **Turkcell Global Bilgi BT Stajı**  
+  Kurumsal BT süreçleri, otomasyon, Active Directory, VMware Horizon ve Power BI raporlama alanlarında deneyim kazandım.
 
 ## Öne Çıkan Projeler
 
-| Proje | Ne İçin Var? | Teknolojiler |
+| Proje | Açıklama | Teknolojiler |
 | --- | --- | --- |
-| [AjanPazar x FitAI](https://github.com/can-ozyasar/btk-hackathon-2026-synapse-) | Ürün sayfalarını insan ve AI alışveriş ajanları açısından analiz eden çift platformlu hackathon ürünü. | TypeScript, Next.js, Gemini API, Tailwind, Docker |
-| [SmartVocab](https://github.com/can-ozyasar/SmartVocab) | Kelime öğrenme sürecini aralıklı tekrar ve ML-ready veri altyapısıyla destekleyen uygulama. | .NET 8, React, TypeScript, EF Core |
-| [Federe Proje](https://github.com/can-ozyasar/federe_proje) | Veri gizliliğini koruyan federe öğrenme mimarileri üzerine deneysel çalışma alanı. | Python, PyTorch, Federated Learning |
-| [BSMT Hackathon RSS](https://github.com/can-ozyasar/BSMT_HACKATHON_RSS) | RSS kaynaklarından sektörel sinyal çıkaran LLM destekli istihbarat/prototip sistemi. | Python, RSS, LLM, Graph Thinking |
-| [AI Portfolio](https://www.canozyasar.dev/) | Portfolyo içeriğimi RAG mimarisiyle sorgulanabilir hale getiren kişisel web deneyimi. | Next.js, .NET, Qdrant, RAG |
+| [AjanPazar x FitAI](https://github.com/can-ozyasar/btk-hackathon-2026-synapse-) | Ürün sayfalarını insan ve AI alışveriş ajanları açısından analiz eden hackathon projesi. | TypeScript, Next.js, Gemini API |
+| [SmartVocab](https://github.com/can-ozyasar/SmartVocab) | Kelime öğrenme sürecini aralıklı tekrar ve ileride ML modellemeye uygun veri yapısıyla destekleyen uygulama. | .NET 8, React, TypeScript |
+| [Federe Proje](https://github.com/can-ozyasar/federe_proje) | Veri gizliliğini koruyan federe öğrenme denemeleri için çalışma alanı. | Python, PyTorch |
+| [BSMT Hackathon RSS](https://github.com/can-ozyasar/BSMT_HACKATHON_RSS) | RSS kaynaklarından sektörel sinyal çıkarma ve LLM ile yapılandırılmış bilgi üretme prototipi. | Python, LLM, RSS |
+| [AI Portfolio](https://www.canozyasar.dev/) | CV ve portfolyo verilerimi RAG mimarisiyle sorgulanabilir hale getiren kişisel web projem. | Next.js, .NET, Qdrant, RAG |
 
-## Deneyim Kısa Özeti
+## GitHub Aktivitesi
 
-- **TÜBİTAK 2247-C STAR Öğrenci Araştırmacı:** Batarya yönetim sistemi için SoH/SoC tahmini, zaman serisi özellik çıkarımı ve ML model deneyleri.
-- **TÜBİTAK 2209-A Proje Yürütücüsü:** Federe öğrenme tabanlı cilt kanseri teşhisi, FedAvg yaklaşımı ve ResNet-18 deneyleri.
-- **Turkcell Global Bilgi BT Stajyeri:** Active Directory, VMware Horizon, UiPath otomasyonları ve Power BI raporlama süreçleri.
-- **Teknofest / SAÜ Synapse Takım Kaptanı:** Sağlıkta yapay zeka kategorisinde teknik roadmap ve ekip koordinasyonu.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=can-ozyasar&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=can-ozyasar&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+  <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=can-ozyasar&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+</picture>
 
-## GitHub Haritam
+## Çalışma Tarzım
 
-<div align="center">
+Bir projeyi yalnızca çalışır hale getirmekle bırakmamaya çalışıyorum. Amacım; problemi, yaklaşımı, kullanılan veriyi, modelleme sürecini ve teknik kararları okunabilir şekilde belgelemek. Bu yüzden GitHub benim için hem portfolyo hem de öğrenme günlüğü.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=can-ozyasar&theme=react-dark&hide_border=true&area=true&custom_title=Can%20%C3%96zya%C5%9Far%20%7C%20Commit%20Activity%20Map" alt="Commit Activity Map" width="100%" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=can-ozyasar&show_icons=true&theme=react&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=can-ozyasar&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=can-ozyasar&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
-## Öğrenme ve Üretim Tarzım
-
-Benim için iyi repo; yalnızca çalışan kod değil, arkasındaki düşünceyi de anlatan repodur. Bu yüzden projelerimde README, deney notu, veri akışı, mimari karar ve öğrenme çıktısını görünür kılmaya çalışıyorum. AI tarafında araştırma merakını; backend tarafında ise üretime yakın, sade ve sürdürülebilir sistem tasarımını önemsiyorum.
-
-## Bağlantılar
-
-- Portfolio: [canozyasar.dev](https://www.canozyasar.dev/)
-- LinkedIn: [linkedin.com/in/muhammed-can-ozyasar](https://www.linkedin.com/in/muhammed-can-ozyasar)
-- GitHub: [github.com/can-ozyasar](https://github.com/can-ozyasar)
-- Email: [can.ozyasarr@gmail.com](mailto:can.ozyasarr@gmail.com)
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,50:0ea5e9,100:0f172a)
-
-</div>
+AI tarafında araştırma ve prototipleme; mühendislik tarafında ise bu prototipleri API, arayüz ve sürdürülebilir servis yapılarıyla kullanılabilir hale getirme tarafına odaklanıyorum.
